@@ -1,0 +1,14 @@
+﻿  Main.c
+C:\Programowanie\Projekt\Main.c(19,14): warning C4013: niezdefiniowany "strcmp"; przy założeniu, że extern zwraca int
+  Model.c
+C:\Programowanie\Projekt\Model.c(89,29): warning C4047: "=": "char" różni się w poziomach operatorów pośrednich od "void *"
+C:\Programowanie\Projekt\Model.c(105,64): warning C4244: "funkcja": konwersja z "__int64" do "indeks", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(161,64): warning C4244: "funkcja": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(163,49): warning C4244: "funkcja": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(203,64): warning C4244: "funkcja": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(239,70): warning C4244: "funkcja": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(240,65): warning C4244: "funkcja": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Programowanie\Projekt\Model.c(280,36): warning C4133: "funkcja": niezgodne typy - od "list *" do "drzewo *"
+  Widok.c
+  Generowanie kodu...
+  Projekt.vcxproj -> C:\Programowanie\Projekt\Debug\Projekt.exe
